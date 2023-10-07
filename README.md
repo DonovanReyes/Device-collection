@@ -21,7 +21,7 @@ Follow the steps below to create device collections in Microsoft Endpoint Config
 - Click OK
 - Click Next
    
-Congratulations!👍 You successfully added a device to a Device Collection!
+Congratulations!👍 You successfully created a Device Collection!
 
 <p align="center">
 <img src="https://i.imgur.com/1MKAEuW.png" height="80%" width="80%"/>
