@@ -2,7 +2,7 @@
 
 Follow the steps below to create device collections in Microsoft Endpoint Configuration Manager.
 
-<b> *Note* ALL NEW DEVICES WHICH GET PXE BOOTED WILL GO INTO DEVICES UNDER ASSETS AND COMPLIANCE</b>
+<b> *Note*: ALL NEW DEVICES WHICH GET PXE BOOTED WILL GO INTO DEVICES UNDER ASSETS AND COMPLIANCE</b>
 
 
 - Click on Assets and Compliance tab on bottom right, then click on devices tab under Overview.
